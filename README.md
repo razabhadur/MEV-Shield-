@@ -1,6 +1,4 @@
-# I'll create a single Python file with everything included for you to download and upload directly.
 
-# Creating the file with all content
 content = """
 \"\"\"
 # MEV Shield
