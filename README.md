@@ -168,7 +168,4 @@ if __name__ == "__main__":
     main()
 """
 
-# Save the content to a Python file
-with open("/mnt/data/mev_shield.py", "w") as file:
-    file.write(content)
 
